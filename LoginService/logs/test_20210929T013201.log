@@ -1,0 +1,21 @@
+28 September 
+ INFO  com.project.MusicFinalApplication -
+                Starting MusicFinalApplication on WIN-V9KEMFG4AQK with PID 17308 (C:\Users\002CKS744\Desktop\MUSIC-APP\LoginService\target\classes started by 002CKS744 in C:\Users\002CKS744\Desktop\MUSIC-APP\LoginService)
+28 September 
+ DEBUG com.project.MusicFinalApplication -
+                Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+28 September 
+ INFO  com.project.MusicFinalApplication -
+                No active profile set, falling back to default profiles: default
+28 September 
+ INFO  com.project.MusicFinalApplication -
+                Started MusicFinalApplication in 7.585 seconds (JVM running for 8.684)
+28 September 
+ INFO  com.project.aspect.LoggingAspect -
+                =========Before Before Logging==========
+28 September 
+ DEBUG com.project.aspect.LoggingAspect -
+                Advice applied at com.project.service.UserServiceImpl:saveuser
+28 September 
+ ERROR o.h.e.jdbc.spi.SqlExceptionHelper -
+                Field 'firstName' doesn't have a default value
